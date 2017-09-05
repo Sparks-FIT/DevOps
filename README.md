@@ -4,3 +4,5 @@
 # Data 18/08/2017
 
 programas, arquivos, anotações  e etc relacionado a disciplina de DevOps
+
+#OK Prof. Vanderson
